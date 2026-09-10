@@ -9,8 +9,8 @@ import time
 
 # Create Chrome Profile and create account manually. Put YOUR email and password here:
 ACCOUNT_EMAIL = "shruti@gmail.com"
-ACCOUNT_PASSWORD = "shruti123"
-GYM_URL = "https://appbrewery.github.io/gym/"
+ACCOUNT_PASSWORD = "your password"
+GYM_URL = "https://appbrewery.url"
 
 chrome_options = webdriver.ChromeOptions()
 # Keep the browser open if the script finishes or crashes.
