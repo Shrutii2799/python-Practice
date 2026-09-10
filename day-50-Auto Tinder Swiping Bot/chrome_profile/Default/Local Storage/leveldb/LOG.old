@@ -1,0 +1,8 @@
+2026/02/01-01:46:13.604 1dac Reusing MANIFEST C:\Users\mutya\PycharmProjects\day-50-Auto Tinder Swiping Bot\chrome_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/01-01:46:13.614 1dac Recovering log #3
+2026/02/01-01:46:13.615 1dac Level-0 table #3: started
+2026/02/01-01:46:13.623 1dac Level-0 table #3: 27080 bytes OK
+2026/02/01-01:46:13.624 1dac Recovering log #4
+2026/02/01-01:46:13.630 1dac Reusing old log C:\Users\mutya\PycharmProjects\day-50-Auto Tinder Swiping Bot\chrome_profile\Default\Local Storage\leveldb/000004.log 
+2026/02/01-01:46:13.633 1dac Delete type=0 #3
+2026/02/01-01:46:13.633 1dac Delete type=2 #5
